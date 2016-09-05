@@ -1,0 +1,46 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.8385 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Laute" 
+        xmin = 0 
+        xmax = 1.8385 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.1273685597227579 
+            text = "S" 
+        intervals [2]:
+            xmin = 0.1273685597227579 
+            xmax = 0.2107497907913889 
+            text = "" 
+        intervals [3]:
+            xmin = 0.2107497907913889 
+            xmax = 0.31781129148351106 
+            text = "x" 
+        intervals [4]:
+            xmin = 0.31781129148351106 
+            xmax = 0.9124387797773491 
+            text = "" 
+        intervals [5]:
+            xmin = 0.9124387797773491 
+            xmax = 1.0017400782518529 
+            text = "s" 
+        intervals [6]:
+            xmin = 1.0017400782518529 
+            xmax = 1.6218742619337836 
+            text = "" 
+        intervals [7]:
+            xmin = 1.6218742619337836 
+            xmax = 1.6806603936006972 
+            text = "C" 
+        intervals [8]:
+            xmin = 1.6806603936006972 
+            xmax = 1.8385 
+            text = "" 

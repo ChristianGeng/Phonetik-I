@@ -1,0 +1,141 @@
+
+
+
+
+
+<!-- Universiteit Utrecht, Faculteit der Letteren -->
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"
+      "http://www.w3.org/TR/REC-html40/loose.dtd"> 
+<HTML>
+<HEAD>
+
+
+<TITLE>
+
+	Error requesting document
+
+</TITLE>
+
+
+
+
+
+
+
+
+	<META NAME="copyright" CONTENT="(C) 1997 Universiteit Utrecht / Proforma">
+
+
+<!-- Dublin Core Metadata -->
+<META NAME="DC.Title" CONTENT="
+        
+                Error requesting document
+        
+">
+
+<META NAME="DC.Creator" CONTENT="Faculteit der Letteren">
+<META NAME="DC.Creator" CONTENT="Universiteit Utrecht">
+
+
+
+
+
+
+
+        <META NAME="DC.Language" SCHEME="ISO639-1" CONTENT="en">
+
+
+<META NAME="DC.Rights" LANG="nl" CONTENT="Faculteit der Letteren, Universiteit Utrecht / Proforma">
+
+
+
+
+</HEAD>
+
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000" LINK="#660000" VLINK="#996600" ALINK="#660066">
+<TABLE><TR><TD WIDTH="100%">
+
+	<A HREF="http://www.let.uu.nl/">
+	<IMG BORDER="0" SRC="/icons/uu_merk.gif" HEIGHT="54" WIDTH="194" ALIGN="LEFT" ALT="Faculteit Letteren, Universiteit Utrecht"></A>
+
+</TD>
+
+
+<TD>
+
+	<IMG BORDER="0" SRC="/icons/let_logo-eng.gif" HEIGHT="54" WIDTH="119" ALIGN="RIGHT" ALT="Faculty of Arts">
+
+</TD>
+</TR></TABLE>
+<HR SIZE="1" NOSHADE>
+
+<!-- Body van de pagina -->
+
+
+
+
+<H3><FONT COLOR="#FF0000">Error 404 in retrieving document from
+www.let.uu.nl</FONT></H3>
+The document you requested <B>http://www.let.uu.nl/~audiufon/sounds/1to8SSL_intro.wav</B> does
+not exist on the server.<P>
+
+
+
+Inform the local <A HREF="mailto:webmaster@let.uu.nl">webmaster</A>
+of this problem if you think it is a problem with the configuration of
+the server.<P>
+<PRE>
+<!--printenv -->
+</PRE>
+
+
+<!-- Einde body van de pagina -->
+<!-- Knoppenbalk -->
+
+<HR SIZE="1" NOSHADE>
+<TABLE CELLSPACING="0" WIDTH="100%">
+<TR><TD ALIGN="left">
+
+<!-- Home UU button -->
+<A HREF="http://www.uu.nl"><IMG BORDER="0" SRC="/icons/uu_home.gif" ALT="Home UU"></A>
+
+<!-- Home button -->
+
+	<A HREF="/"><IMG BORDER="0" SRC="/icons/let_home.gif" ALT="Home Letteren"></A>
+
+
+
+
+
+
+
+
+
+
+<!-- Reactie button -->
+
+	<A HREF="mailto:webmaster@let.uu.nl">
+
+
+	<IMG BORDER="0" SRC="/icons/remarks.gif" ALT="uw reactie"></A>
+
+
+</TD>
+
+</TR>
+</TABLE>
+<HR SIZE="1" NOSHADE>
+<ADDRESS>
+
+
+	Last modified: 18 Apr 1997
+
+
+	(JS)
+
+
+</ADDRESS>
+
+</BODY>
+</HTML>
+

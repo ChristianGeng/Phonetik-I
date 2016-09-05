@@ -1,0 +1,17 @@
+Hi Christian,
+
+Sorry that finally I did not have time and opportunity to show you some examples from my material, 
+but here I send two spectrograms ( sound [a] uttered in speech and at 988 Hz fundamental freq) and some more sound samples.
+
+The important things in the file names are the following:
+b3, b4... --> these are the fundamentals (you got 3 octaves and speech)
+bib, bab, bub --> these are the CVC sequences: [bi:b] [ba:b] [bu:b]
+So you have 3 octaves from the same vowels - and from the 3 most spaced Hungarian vowels at the same time.
+
+I don't know for sure if that is what you were interested in, but please let me know if you need more samples or something.
+I only have nonsense CVC sequences and isolated vowels recorded.
+
+Hope you are fine,
+and wish you a happy new year!
+
+Andi

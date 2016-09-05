@@ -1,0 +1,50 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "kiecher" 
+        xmin = 0 
+        xmax = 3 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.4340610373032007 
+            text = "" 
+        intervals [2]:
+            xmin = 0.4340610373032007 
+            xmax = 0.6709363623469339 
+            text = "Cabe" 
+        intervals [3]:
+            xmin = 0.6709363623469339 
+            xmax = 0.7268911635383669 
+            text = "k" 
+        intervals [4]:
+            xmin = 0.7268911635383669 
+            xmax = 0.76605952437237 
+            text = "bst" 
+        intervals [5]:
+            xmin = 0.76605952437237 
+            xmax = 0.8462614060800906 
+            text = "h" 
+        intervals [6]:
+            xmin = 0.8462614060800906 
+            xmax = 1.0271819299323908 
+            text = "i:" 
+        intervals [7]:
+            xmin = 1.0271819299323908 
+            xmax = 1.0999231714812536 
+            text = "C" 
+        intervals [8]:
+            xmin = 1.0999231714812536 
+            xmax = 1.2379450144201218 
+            text = "\sw" 
+        intervals [9]:
+            xmin = 1.2379450144201218 
+            xmax = 3 
+            text = "" 

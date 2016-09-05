@@ -1,0 +1,19 @@
+# Ignore everything
+/*
+
+!.gitignore
+!*.pdf
+!README.md
+
+
+!audio/
+!audio/*
+
+!media/
+!media/*
+
+
+# Unterverzeichnisse nicht ignoerieren
+#!*/
+
+
